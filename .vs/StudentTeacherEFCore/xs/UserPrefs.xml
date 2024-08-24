@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{FC61E888-083E-4DAB-A1DF-7625788BFD95}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StudentTeacherEFCore/Controllers/TeacherController.cs">
+    <Files>
+      <File FileName="StudentTeacherEFCore/Data/ApplicationDbContext.cs" />
+      <File FileName="StudentTeacherEFCore/Controllers/StudentController.cs" />
+      <File FileName="StudentTeacherEFCore/Controllers/TeacherController.cs" Line="26" Column="30" />
+      <File FileName="StudentTeacherEFCore/Program.cs" />
+      <File FileName="StudentTeacherEFCore/Entities/Student.cs" Line="1" Column="1" />
+      <File FileName="StudentTeacherEFCore/Entities/Teacher.cs" Line="1" Column="1" />
+      <File FileName="StudentTeacherEFCore/appsettings.Development.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StudentTeacherEFCore" expanded="True">
+            <Node name="StudentTeacherEFCore" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="TeacherController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.StudentTeacherEFCore PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

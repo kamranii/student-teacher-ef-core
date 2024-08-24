@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9dbJOv0X7HRWopFXdzV1who6wM3LKrHSaOdtrNv7yq8=",
+  "Source": "StudentTeacherEFCore",
+  "BasePath": "_content/StudentTeacherEFCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
